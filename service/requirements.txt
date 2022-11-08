@@ -1,0 +1,15 @@
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+requests==2.9.1
+numpy==1.20.2
+pandas==1.2.4
+scipy==1.6.3
+jupyter==1.0.0
+tqdm==4.64.1
+seaborn==0.11.1
+scikit-learn==1.1.2
+lightfm==1.16
+implicit==0.6.1
+h5py==3.7.0
+scikit-surprise==1.1.1
